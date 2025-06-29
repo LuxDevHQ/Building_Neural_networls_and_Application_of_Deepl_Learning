@@ -1,4 +1,4 @@
-# Day 2: Building a Neural Network from Scratch
+# Building a Neural Network from Scratch
 
 ## Topic: Feedforward Neural Networks (FNNs)
 
